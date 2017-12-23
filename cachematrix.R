@@ -1,4 +1,4 @@
-## This function creates the list containing the functions to set
+## This function creates the list containing the functions to
 ## set and get the matrix and its inverse value
 
 makeCacheMatrix <- function(x = matrix()) {
